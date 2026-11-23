@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 132" width="1200" height="132" role="img" aria-labelledby="title desc">
+  <title id="title">HN closing identity</title>
+  <desc id="desc">HN // Cybersecurity Engineering signature plate for Hani Khaled Nasser Al-Nasseri.</desc>
+
+  <defs>
+    <linearGradient id="plate" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#080B12"/>
+    </linearGradient>
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00D9FF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1199" height="131" fill="url(#plate)" stroke="#168BFF" stroke-opacity="0.35"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#top)"/>
+
+  <g fill="none" stroke="#00D9FF" stroke-width="2.5">
+    <path d="M14 40V14h26"/>
+    <path d="M1160 14h26v26"/>
+    <path d="M1186 92v26h-26"/>
+    <path d="M40 118H14V92"/>
+  </g>
+
+  <text x="600" y="60" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="8" fill="#F1F5F9">HN // CYBERSECURITY ENGINEERING</text>
+  <text x="600" y="94" text-anchor="middle" font-family="Consolas,'Cascadia Mono','Courier New',monospace" font-size="13" letter-spacing="4" fill="#C7D0DC" fill-opacity="0.85">HANI KHALED NASSER AL-NASSERI · GITHUB HHH2006 · OSCP JOURNEY</text>
+</svg>
