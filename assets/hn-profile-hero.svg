@@ -51,7 +51,9 @@
 
   <!-- monogram -->
   <text x="72" y="278" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="170" font-weight="700" letter-spacing="6" fill="url(#mono)">HN</text>
-  <text x="72" y="278" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="170" font-weight="700" letter-spacing="6" fill="none" stroke="#00D9FF" stroke-opacity="0.30" stroke-width="1.5">HN</text>
+  <text x="72" y="278" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="170" font-weight="700" letter-spacing="6" fill="none" stroke="#00D9FF" stroke-opacity="0.30" stroke-width="1.5">HN
+    <animate attributeName="stroke-opacity" values="0.18;0.42;0.18" dur="4s" repeatCount="indefinite"/>
+  </text>
   <text x="76" y="322" font-family="Consolas,'Cascadia Mono','Courier New',monospace" font-size="13" letter-spacing="5" fill="#00D9FF" fill-opacity="0.9">GITHUB.COM/HHH2006</text>
 
   <!-- divider -->
@@ -68,5 +70,7 @@
   <text x="452" y="322" font-family="Consolas,'Cascadia Mono','Courier New',monospace" font-size="13" letter-spacing="3" fill="#C7D0DC" fill-opacity="0.62">KALI LINUX · NETWORK SECURITY · CRYPTOGRAPHY · BLUE TEAM</text>
 
   <!-- bottom accent -->
-  <rect x="20" y="394" width="1160" height="4" fill="url(#accent)" opacity="0.75"/>
+  <rect x="20" y="394" width="1160" height="4" fill="url(#accent)" opacity="0.75">
+    <animate attributeName="opacity" values="0.45;0.95;0.45" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
 </svg>
