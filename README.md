@@ -116,6 +116,9 @@ Modules I am actively studying and building labs for — coursework and self-dir
         <img src="https://img.shields.io/badge/Platform-Kali_Linux_%7C_ZSH-557c94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0B1220" alt="Platform: Kali Linux and ZSH" />
         <img src="https://img.shields.io/badge/Terminal_Baseline-4.4.2-0B1220?style=flat-square&labelColor=168BFF" alt="Terminal baseline 4.4.2" />
       </p>
+      <p><a href="https://github.com/hhh2006/HN-NEXUS"><b>Explore the repository →</b></a></p>
+    </td>
+  </tr>
   <tr>
     <td width="150" align="center">
       <img src="https://img.shields.io/badge/HN-SecureDVWA-0B1220?style=for-the-badge&logo=php&logoColor=white&labelColor=168BFF" alt="HN SecureDVWA logo" />
