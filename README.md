@@ -116,7 +116,19 @@ Modules I am actively studying and building labs for — coursework and self-dir
         <img src="https://img.shields.io/badge/Platform-Kali_Linux_%7C_ZSH-557c94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0B1220" alt="Platform: Kali Linux and ZSH" />
         <img src="https://img.shields.io/badge/Terminal_Baseline-4.4.2-0B1220?style=flat-square&labelColor=168BFF" alt="Terminal baseline 4.4.2" />
       </p>
-      <p><a href="https://github.com/hhh2006/HN-NEXUS"><b>Explore the repository →</b></a></p>
+  <tr>
+    <td width="150" align="center">
+      <img src="https://img.shields.io/badge/HN-SecureDVWA-0B1220?style=for-the-badge&logo=php&logoColor=white&labelColor=168BFF" alt="HN SecureDVWA logo" />
+    </td>
+    <td>
+      <h3>HN SecureDVWA</h3>
+      <p>Security-focused DVWA training lab enhanced with the HN Security Layer: hardening controls, security monitoring, and seven vulnerability modules — a controlled, local-first environment for practicing web application security.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/hhh2006/HN-SecureDVWA?style=flat-square&label=Stars&color=00D9FF&labelColor=0B1220" alt="Stars" />
+        <img src="https://img.shields.io/badge/Stack-PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0B1220" alt="PHP" />
+        <img src="https://img.shields.io/badge/Type-Training_Lab-0B1220?style=flat-square&labelColor=168BFF" alt="Training lab" />
+      </p>
+      <p><a href="https://github.com/hhh2006/HN-SecureDVWA"><b>Explore the repository →</b></a></p>
     </td>
   </tr>
 </table>
